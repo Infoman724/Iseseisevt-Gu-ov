@@ -21,7 +21,7 @@ namespace Iseseisevtöö_Gužov
                 }
                 else if (vastus == "ül3")
                 {
-
+                    funktsionid.ulesane3();
                 }
                 else  
                 {
